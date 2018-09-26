@@ -15,4 +15,5 @@ class Artist
     song = Song.new(name)
     song.artist = self
     @songs << song
+  end
 end
