@@ -11,7 +11,7 @@ class Song
     @@all
   end
 
-  def artist(name)
-
-  end
+  # def artist(name)
+  #
+  # end
 end
